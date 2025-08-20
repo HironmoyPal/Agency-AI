@@ -1,3 +1,33 @@
+🌟 Digital Solutions Website
+
+Turning imagination into digital impact ✨A modern website that showcases services like advertising, content marketing, social media strategies, and more — built with React + Vite.
+
+🚀 Live Demo
+
+🔗 https://hironmoypal.github.io/Agency-AI/ (replace with your deployed link)
+
+🔥 Features
+
+🎨 Modern UI/UX with responsive design
+
+📝 Service sections (Advertising, Content, Social Media, etc.)
+
+🧑‍🤝‍🧑 Team showcase
+
+📩 Contact form
+
+📰 Newsletter subscription
+
+🛠️ Tech Stack
+
+Frontend: React + Vite, Tailwind CSS
+
+Deployment: GitHub Pages
+
+
+
+
+
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
