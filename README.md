@@ -4,25 +4,25 @@ Turning imagination into digital impact ✨A modern website that showcases servi
 
 🚀 Live Demo
 
-🔗 https://hironmoypal.github.io/Agency-AI/ (replace with your deployed link)
+🔗 https://hironmoypal.github.io/Agency-AI/ 
 
 🔥 Features
 
-🎨 Modern UI/UX with responsive design
+        🎨 Modern UI/UX with responsive design
 
-📝 Service sections (Advertising, Content, Social Media, etc.)
+        📝 Service sections (Advertising, Content, Social Media, etc.)
 
-🧑‍🤝‍🧑 Team showcase
+        🧑‍🤝‍🧑 Team showcase
 
-📩 Contact form
+        📩 Contact form
 
-📰 Newsletter subscription
+        📰 Newsletter subscription
 
 🛠️ Tech Stack
 
-Frontend: React + Vite, Tailwind CSS
+      Frontend: Html, React + Vite, Tailwind CSS
 
-Deployment: GitHub Pages
+      Deployment: GitHub Pages
 
 
 
